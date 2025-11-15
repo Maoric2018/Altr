@@ -1,4 +1,2 @@
 # Altr
-Altr was inspired by a common thought every student has: “What would happen if I made different choices today?” Instead of guessing, we built a tool that simulates alternate versions of your day based on small habit changes—sleeping earlier, starting work sooner, going to office hours, skipping a class, drinking less coffee, and more. Using your schedule and simple inputs, Claude generates multiple “alternate yous,” predicts how each version performs, and gives you a quick daily report recommending the best path to follow.
-
-We built the frontend with React + Tailwind and used Claude to run all the reasoning and simulations. The main challenges were keeping the outputs consistent and making the simulated universes feel realistic. Overall, we learned how effective structured prompting can be and how small changes in habits can meaningfully shift a student’s day. Altr is a fast, fun way to see how different choices can lead to better outcomes.
+Altr uses the Claude API to create versions of you in "parallel universe", each with different habits, then analyzes stress, energy, and deadlines to reveal the smartest reality to follow today.
